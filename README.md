@@ -1,10 +1,12 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukesh%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20UI%2FUX%20%7C%20Building%20Intelligent%20Products&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Mukesh%20M&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20UI%2FUX%20Designer%20%7C%20Web%20Developer&descAlignY=60&descSize=18&descColor=c9d1d9" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Mukesh+M!;AI+%26+Data+Science+Undergrad;UI%2FUX+Designer+%26+Web+Developer;Building+RAG+Models+%26+AI+Systems)](https://github.com/MukeshM98)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&height=60&lines=Hey+there%2C+I%27m+Mukesh+M!;AI+%26+Data+Science+Undergrad;UI%2FUX+Designer+%26+Web+Developer;Building+RAG+Models+%26+AI+Systems" alt="Typing SVG" />
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MukeshM98&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/MukeshM98)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh-m-037a44280)
@@ -17,13 +19,13 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class MukeshM:
     def __init__(self):
         self.name        = "Mukesh M"
-        self.location    = "Tiruchirappalli, Tamil Nadu 🇮🇳"
+        self.location    = "Tiruchirappalli, Tamil Nadu, India"
         self.degree      = "B.Tech – AI & Data Science (CGPA: 8.28)"
         self.stack       = [
             "Python", "Java", "React.js",
@@ -35,7 +37,7 @@ class MukeshM:
             "LLM Fine-tuning",
             "Cloud Deployment (AWS / GCP)"
         ]
-        self.fun_fact    = "I speak English, Tamil & German (A1.1) 🌍"
+        self.fun_fact    = "I speak English, Tamil & German (A1.1)"
 
     def motto(self):
         return "Combine AI with design to build things that matter."
@@ -75,9 +77,9 @@ print(me.motto())
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_DB-FFA611?style=flat-square&logo=firebase&logoColor=white)
+![Firebase DB](https://img.shields.io/badge/Firebase_DB-FFA611?style=flat-square&logo=firebase&logoColor=white)
 
-### 🎨 UI/UX & Data Viz Tools
+### 🎨 UI/UX & Data Viz
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
@@ -91,12 +93,9 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/MukeshM98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MukeshM98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/MukeshM98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshM98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=MukeshM98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshM98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
 
 </div>
 
@@ -106,7 +105,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MukeshM98&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/MukeshM98)
+<img src="https://streak-stats.demolab.com?user=MukeshM98&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
@@ -116,7 +115,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Mukesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MukeshM98&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/MukeshM98)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MukeshM98&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -126,7 +125,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=MukeshM98&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/MukeshM98)
+<img src="https://github-profile-trophy.vercel.app/?username=MukeshM98&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
 
@@ -135,16 +134,16 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Velx Pvt. Ltd. — UI/UX Design Intern | Sep 2024 – Dec 2024 | Tiruchirappalli, Tamil Nadu</b></summary>
+<summary><b>🏢 Velx Pvt. Ltd. — UI/UX Design Intern &nbsp;|&nbsp; Sep 2024 – Dec 2024 &nbsp;|&nbsp; Tiruchirappalli, TN</b></summary>
 
 <br/>
 
-> `Figma` · `Adobe XD` · `HTML5` · `CSS3` · `A/B Testing` · `Wireframing` · `Prototyping`
+> `Figma` &nbsp;·&nbsp; `Adobe XD` &nbsp;·&nbsp; `HTML5` &nbsp;·&nbsp; `CSS3` &nbsp;·&nbsp; `Wireframing` &nbsp;·&nbsp; `Prototyping` &nbsp;·&nbsp; `A/B Testing`
 
-- 🚀 Designed and deployed responsive landing pages that measurably improved user engagement and retention metrics.
-- ⚡ Reduced page load time by **15%** through systematic asset optimization and performance tuning.
-- 🤝 Collaborated cross-functionally with developers and clients to deliver tailored, deadline-driven web solutions.
-- 🔍 Conducted end-to-end UX research cycles: user research → wireframing → prototyping → A/B testing → delivery.
+- 🚀 Designed and deployed responsive landing pages improving user engagement and retention.
+- ⚡ Reduced page load time by **15%** through optimization and efficient asset management.
+- 🤝 Collaborated with developers and clients to deliver tailored web solutions on tight deadlines.
+- 🔍 Conducted end-to-end UX research: user research → wireframing → prototyping → A/B testing.
 
 </details>
 
@@ -156,10 +155,10 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🧬 Drug Invention & Supply Chain Monitor](https://github.com/MukeshM98) | Python · ML · Firebase · Power BI | AI-powered pharmaceutical platform for supply chain transparency, inventory monitoring & drug discovery workflows |
-| [🌿 Plant Health Monitoring System](https://github.com/MukeshM98) | Python · Deep Learning · Image Analysis · ML | AI-based crop disease detection system; improves early detection accuracy and agricultural productivity |
-| [🤖 Adaptive RAG Model for Enterprises](https://github.com/MukeshM98) | Python · LangChain · GenAI · NLP · Vector DB | Enterprise knowledge management system using contextual retrieval + Generative AI for scalable document querying |
-| [📊 DSA Playground](https://github.com/MukeshM98) | JavaScript · Tailwind CSS · HTML5 | Interactive visualizer for graphs, sorting algorithms, stacks & queues — built for learning & teaching DSA |
+| [🧬 Drug Invention & Supply Chain Monitor](https://github.com/MukeshM98) | Python · ML · Firebase · Power BI | AI-powered pharma platform for supply chain transparency, inventory monitoring & drug discovery |
+| [🌿 Plant Health Monitoring System](https://github.com/MukeshM98) | Python · Deep Learning · Image Analysis | AI crop disease detection system; improves early detection accuracy & agricultural productivity |
+| [🤖 Adaptive RAG Model for Enterprises](https://github.com/MukeshM98) | Python · LangChain · GenAI · NLP | Enterprise knowledge management using contextual retrieval + GenAI for scalable document querying |
+| [📊 DSA Playground](https://github.com/MukeshM98) | JavaScript · Tailwind CSS · HTML5 | Interactive visualizer for graphs, sorting algorithms, stacks & queues |
 
 </div>
 
@@ -169,14 +168,14 @@ print(me.motto())
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🥇 | **IEEE MAS SIGHT HUB SUMMIT – Innovation & Sustainability Award** | Recognized for innovation in sustainability at the IEEE MAS SIGHT HUB SUMMIT (2025) |
-| 🎤 | **International Conference Presenter – Anna University** | Presented "Smart Plastic Recycler" at the International Conference on Emerging Trends in Engineering (March 2025) |
-| 🏅 | **National Level Hackathon – Special Recognition Award** | Awarded Special Recognition at a national-level hackathon for outstanding project delivery |
+| | Achievement | Details |
+|:-:|:------------|:--------|
+| 🥇 | **IEEE MAS SIGHT HUB SUMMIT – Innovation Award** | Recognized for Innovation & Sustainability at IEEE MAS SIGHT HUB SUMMIT (2025) |
+| 🎤 | **International Conference Presenter – Anna University** | Presented "Smart Plastic Recycler" at the Int'l Conference on Emerging Trends in Engineering (Mar 2025) |
+| 🏅 | **National Level Hackathon – Special Recognition** | Awarded Special Recognition at a national-level hackathon |
 | 📜 | **NPTEL – Elite + Gold Certification** | Education on Sustainable Development — scored **97%** |
 | 🌐 | **Google Generative AI Certification** | Certified in Generative AI by Google |
-| 🧪 | **IBM Certified Data Scientist** | Industry-recognized data science credential from IBM |
+| 🧪 | **IBM Certified Data Scientist** | Industry-recognised data science credential from IBM |
 | 🇩🇪 | **German A1.1 Certification** | Certified by Inlingua for German language proficiency |
 
 </div>
@@ -189,9 +188,9 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| 🎓 B.Tech – Artificial Intelligence & Data Science | K. Ramakrishnan College of Technology, Tiruchirappalli | 2023 – 2027 | CGPA: **8.28** |
-| 📘 HSC (Higher Secondary Certificate) | Santhanam Vidhyalaya Senior Secondary School, Tiruchirappalli | 2022 – 2023 | **77.8%** |
-| 📗 SSLC (Secondary School Leaving Certificate) | Santhanam Vidhyalaya Senior Secondary School, Tiruchirappalli | 2020 – 2021 | **73.4%** |
+| 🎓 B.Tech – AI & Data Science | K. Ramakrishnan College of Technology, Tiruchirappalli | 2023 – 2027 | CGPA: **8.28** |
+| 📘 HSC | Santhanam Vidhyalaya Sr. Sec. School, Tiruchirappalli | 2022 – 2023 | **77.8%** |
+| 📗 SSLC | Santhanam Vidhyalaya Sr. Sec. School, Tiruchirappalli | 2020 – 2021 | **73.4%** |
 
 </div>
 
@@ -200,11 +199,11 @@ print(me.motto())
 ## 🧱 Currently Learning
 
 ```
-🤖 Advanced RAG         →  Multi-vector retrieval, hybrid search, re-ranking
-🧠 LLM Fine-tuning      →  LoRA, QLoRA, PEFT, instruction tuning
-☁️  Cloud Deployment    →  AWS SageMaker, GCP Vertex AI, Docker
-📊 MLOps                →  Model monitoring, CI/CD pipelines for ML
-🌐 German Language      →  Progressing from A1.1 → A2 level
+ Advanced RAG      -->  Multi-vector retrieval, hybrid search, re-ranking
+ LLM Fine-tuning   -->  LoRA, QLoRA, PEFT, instruction tuning
+ Cloud Deployment  -->  AWS SageMaker, GCP Vertex AI, Docker
+ MLOps             -->  Model monitoring, CI/CD pipelines for ML
+ German Language   -->  Progressing from A1.1 to A2 level
 ```
 
 ---
@@ -224,7 +223,9 @@ print(me.motto())
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Impactful!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:bf91f3&height=100&section=div&text=Let%27s%20Connect!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%" alt="Connect Banner"/>
+
+### 💬 Let's Build Something Impactful Together
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukesh%20M-70a5fd?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh-m-037a44280)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mukeshinfo.netlify.app-bf91f3?style=for-the-badge&logo=netlify&logoColor=white)](https://mukeshinfo.netlify.app)
@@ -234,4 +235,4 @@ print(me.motto())
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,100:70a5fd&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
