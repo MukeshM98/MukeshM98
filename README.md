@@ -1,10 +1,10 @@
-<a href="https://github.com/MukeshM98">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukesh%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%2C%20User-Centered%20Products&descAlignY=62&descSize=16" />
-</a>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukesh%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20UI%2FUX%20%7C%20Building%20Intelligent%20Products&descAlignY=62&descSize=16" />
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Mukesh+M+%F0%9F%91%8B;AI+%26+Data+Science+Undergrad+%F0%9F%A4%96;UI%2FUX+Designer+%7C+Web+Developer+%F0%9F%8C%90;Building+RAG+Models+%26+AI+Systems+%F0%9F%9A%80)](https://github.com/MukeshM98)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Mukesh+M!;AI+%26+Data+Science+Undergrad;UI%2FUX+Designer+%26+Web+Developer;Building+RAG+Models+%26+AI+Systems)](https://github.com/MukeshM98)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MukeshM98&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/MukeshM98)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh-m-037a44280)
